@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Prerequisites">
+    <title>Prerequisites</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>DITA-OT</keyword><keyword>DTD</keyword><keyword>GitHub</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>To start using the DITAxPresso product, it is mandatory that you should have the
+            following resources:</p>
+        <section id="section_ryf_vjg_fwb">
+            <title>DITA-Open Toolkit</title>
+            <p>DITA - Open Toolkit (DITA-OT) is used for converting all the DITA files to various
+                formats. DITA-OT will support formats like PDF and HTML5.</p>
+            <p>
+                <note id="note_ftn_zjg_fwb">In the next version, Markdown format will also be
+                    supported.</note>
+            </p>
+        </section>
+        <section id="section_pk4_w4y_2wb">
+            <title>Document Type Definition</title>
+            <p>Document Type Definition (DTD) is used for defining the document structure with the
+                list of legal element and attributes.</p>
+        </section>
+        <section id="section_lv4_4kg_fwb">
+            <title>Plugins</title>
+        </section>
+        <section id="section_o54_4kg_fwb">
+            <p>Plugins are used for styling the ditamap in different formats.</p>
+            <p>The Plugins include the following:</p>
+            <ul id="ul_vzf_1py_2wb">
+                <li>PDF Plugin</li>
+                <li>HTML5 Plugin</li>
+                <li>Doc Plugin</li>
+            </ul>
+        </section>
+        <section id="section_elm_kpy_2wb">
+            <title>GitHub</title>
+            <p>GitHub login is used for accessing the stored DITA projects and the source files.</p>
+            <note id="note_u2s_clg_fwb">DITA projects and the source files has to be provided by the
+                Client Administrator.</note>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Introduction">
+    <title>Introduction</title>
+    <prolog>
+        <author>Metapercept</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Introduction</keyword><keyword>Overview</keyword><keyword>DocManager</keyword><keyword>DocEditor</keyword><keyword>DocPublisher</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>DITAxPresso is a lightweight interoperability utility for organizations that want to
+            share, edit, and publish their DITA projects. As a lightweight system, DITAxPresso
+            provides straightforward and easy-to-use paths to manage projects more efficiently. This
+            document-sharing platform requires minimum installation steps and administration
+            requirements.</p>
+        <p>DITAxPresso consists of three applications:</p>
+        <ul id="ul_vlq_khg_fwb">
+            <li>DocManager</li>
+            <li>DocEditor</li>
+            <li>DocPublisher</li>
+        </ul>
+        <p>These applications allow users to manage, edit, and publish their DITA projects. Due to a
+            single authentication process, it becomes easy for the users to access them.</p>
+        <section id="section_qn1_pfy_2wb">
+            <title>Overview of DITAxPresso</title>
+            <p>DITAxPresso allows users to manage DITA project version control from GitHub.</p>
+            <p>The built-in templates allow you to publish your DITA content in the form of HTML5,
+                PDF, and other supporting formats using DITA Open-Toolkit Frameworks. You have the
+                options for multi-format DITA content publishing.</p>
+            <p>DITAxPresso styles your DITA document as per branding communication needs. Style
+                feature customizes the colors and themes of the documents.</p>
+            <p>DITAxPresso allows you to select appropriate topics, hide topics, and publish
+                selected content.</p>
+            <p>DITAxPresso allows you to move the output files to any of the cloud services (AWS-s3,
+                GCP, Netify, so on.) links.</p>
+        </section>
+    </conbody>
+</concept>

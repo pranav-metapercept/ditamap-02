@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Untitled">
+    <title>Client Admin Features</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Dashboard</keyword><keyword>Admin</keyword><keyword>Users</keyword><keyword>Login</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The DITAxPresso Client Admin features consist of menus to perform several
+            functionalities. They are as follows:</p>
+        <ul id="ul_wbz_w24_dwb">
+            <li>Dashboard</li>
+            <li>Projects</li>
+            <li>Admins</li>
+            <li>Users</li>
+            <li>Organizations</li>
+            <li>Profile</li>
+            <li>Contact to Support </li>
+        </ul>
+        <section id="section_yyg_c2z_cwb">
+            <title>Dashboard</title>
+            <p>Once you have logged in with the changed password, the client dashboard screen will
+                be displayed.</p>
+            <p>The dashboard consists of the following elements:</p>
+            <ul id="ul_qdg_h11_dwb">
+                <li>Number of Users<ul id="ul_p5k_j11_dwb">
+                        <li>Number of Active Users</li>
+                        <li>Number of Inactive Users</li>
+                    </ul></li>
+            </ul>
+            <ul id="ul_twj_p11_dwb">
+                <li>Number of Projects</li>
+                <li>Number of Virtual Machines (VMs)</li>
+                <li>Number of Files</li>
+                <li>Recent Release Logs<ul id="ul_uh4_s11_dwb">
+                        <li>Release Name</li>
+                        <li>Tag Name</li>
+                    </ul></li>
+            </ul>
+            <ul id="ul_lxt_511_dwb">
+                <li>Recent Publications<ul id="ul_agg_v11_dwb">
+                        <li>Document Name</li>
+                        <li>Publication URL</li>
+                    </ul></li>
+            </ul>
+        </section>
+        <section id="section_yqg_h2z_cwb">
+            <title>Projects</title>
+            <p>The project menu allows you to retrieve all your projects that are on GitHub. In this
+                feature, you will have to log in to the Github with valid credentials.</p>
+            <ul id="ul_gtz_1l4_dwb">
+                <li>Once you are in the Project Menu, you will see the GitHub screen to connect.<ul
+                        id="ul_pyp_km4_dwb">
+                        <li>Click <uicontrol>login</uicontrol></li>
+                    </ul></li>
+                <li>Sign in to GitHub to continue to the DITAxPresso Admin Auth screen.<ul
+                        id="ul_yz2_zfg_fwb">
+                        <li>Enter<userinput>user name or email address</userinput></li>
+                        <li>Click<uicontrol>Sign in</uicontrol></li>
+                    </ul></li>
+            </ul>
+            <note id="note_txc_mgg_fwb">If you have forgotten your password, click <uicontrol>Forgot
+                    your Password?</uicontrol>link.</note>
+            <note id="note_fn2_4gg_fwb">If you do not have a GitHub account, click <uicontrol>Create
+                    Account.</uicontrol></note>
+        </section>
+    </conbody>
+    <concept id="concept_xvk_m2z_cwb">
+        <title>Project List</title>
+        <conbody>
+            <p>The projects are displayed in the DITAxPresso project menu, where you can see all
+                your projects or repositories along with their information.</p>
+            <p dir="ltr">Project or Repositories from GitHub will display: </p>
+            <ol id="ol_w55_42z_cwb">
+                <li>Name of the Project</li>
+                <li>Number of Collaborators</li>
+                <li>Number of Users</li>
+                <li>Details feature</li>
+            </ol>
+            <section id="section_iq4_x2z_cwb">
+                <title>Details Feature </title>
+                <p>All the information related to each and every project is displayed in the Details
+                    label. </p>
+            </section>
+        </conbody>
+    </concept>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Component of DITAxPresso</title>
+    <topichead navtitle="Component of DITAxPresso">
+        <topicref href="Topics/C_Client_Admin.dita"/>
+        <topichead navtitle="Client Admin Authentication">
+            <topicref href="Topics/T_Login_and_Login_Credentials.dita">
+                <topicref href="Topics/T1_Forgot_Your_Password_Link.dita"/>
+            </topicref>
+            <topicref href="Topics/T2_Change_Password.dita"/>
+        </topichead>
+        <topicref href="Topics/C_Client_Admin_Features.dita"/>
+    </topichead>
+</map>
